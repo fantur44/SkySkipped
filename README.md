@@ -1,4 +1,5 @@
 # SkySkipped
+## The original repository [https://github.com/Cephetir/SkySkipped](https://github.com/Cephetir/SkySkipped) was deleted for unknown reasons.
 ## Join the discord server! https://discord.gg/bDkfEF26rf
 [![GitHub release](https://img.shields.io/github/downloads/Cephetir/SkySkipped/total)](https://github.com/Cephetir/SkySkipped/releases)
 [![CodeFactor](https://www.codefactor.io/repository/github/cephetir/skyskipped/badge)](https://www.codefactor.io/repository/github/cephetir/skyskipped)\

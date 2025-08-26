@@ -1,0 +1,43 @@
+{
+  "package": "me.cephetir.skyskipped.mixins",
+  "refmap": "mixins.sm.refmap.json",
+  "minVersion": "0.7.11",
+  "compatibilityLevel": "JAVA_8",
+  "verbose": true,
+  "mixins": [
+    "MixinBlock",
+    "MixinBlockCarpet",
+    "MixinBlockCocoa",
+    "MixinEntityPlayer",
+    "MixinEquipmentOverlay",
+    "MixinModlist",
+    "render.MixinPatcherFontRendererHook"
+  ],
+  "client": [
+    "MixinAbstractClientPlayer",
+    "MixinDisplay",
+    "MixinGuiContainer",
+    "MixinGuiDisconnected",
+    "MixinGuiMultiplayer",
+    "MixinMinecraft",
+    "MixinPlayerControllerMP",
+    "accessors.IMixinEntityPlayerSP",
+    "accessors.IMixinFontRenderer",
+    "accessors.IMixinGuiChat",
+    "accessors.IMixinGuiContainer",
+    "accessors.IMixinGuiNewChat",
+    "accessors.IMixinGuiScreen",
+    "accessors.IMixinLayerArmorBase",
+    "accessors.IMixinMinecraft",
+    "accessors.IMixinNetPlayHandler",
+    "accessors.IMixinRendererLivingEntity",
+    "accessors.IMixinRenderManager",
+    "accessors.IMixinRenderPlayer",
+    "accessors.IMixinShaderGroup",
+    "render.MixinFontRenderer",
+    "render.MixinGuiIngame",
+    "render.MixinGuiNewChat",
+    "render.MixinRender",
+    "render.MixinRenderManager"
+  ]
+}
