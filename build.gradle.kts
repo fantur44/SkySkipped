@@ -82,7 +82,7 @@ dependencies {
     include("me.cephetir:bladecore-loader-1.8.9-forge:1.2")
     implementation("me.cephetir:bladecore-1.8.9-forge:0.0.2-c")
 
-    implementation("net.dv8tion:JDA:5.0.0-alpha.19") {
+    implementation("net.dv8tion:JDA:6.0.0-preview") {
         exclude(module = "opus-java")
     }
 
